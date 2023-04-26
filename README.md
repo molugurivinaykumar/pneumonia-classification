@@ -25,7 +25,7 @@ The model's performance was evaluated using various metrics, including accuracy,
 
 The web application was built using Flask, a Python web framework, and deployed on Heroku, making it accessible to the public. The project documentation includes a detailed description of the data sources, data preprocessing steps, model development and training, model evaluation and optimization, and the web application deployment process.
 
-##Results
+## Results
 Loss on test set:  0.905697194154084
 Accuracy on test set:  0.8269230769230769
 Recall of the model is 0.98
