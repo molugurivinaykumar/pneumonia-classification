@@ -24,3 +24,9 @@ A CNN model was developed and trained on the data to classify chest X-ray images
 The model's performance was evaluated using various metrics, including accuracy, precision, recall, and F1 score. Finally, the best-performing model was selected and deployed to a web application to enable users to upload chest X-ray images and receive predictions on whether the images show normal or pneumonia results.
 
 The web application was built using Flask, a Python web framework, and deployed on Heroku, making it accessible to the public. The project documentation includes a detailed description of the data sources, data preprocessing steps, model development and training, model evaluation and optimization, and the web application deployment process.
+
+##Results
+Loss on test set:  0.905697194154084
+Accuracy on test set:  0.8269230769230769
+Recall of the model is 0.98
+Precision of the model is 0.79
